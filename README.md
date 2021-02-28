@@ -4,11 +4,11 @@
 The purpose of this project is to perform weather pattern analysis in Hawaii for the month of June and Decemeber to help assess wheatherr an ice cream/surf shop would be a good weather condition to operate.
   
 
-##Results
+## Results
 
 <table>
  <tr>   
-    <td align="center"> June Temperature is Hawaii </td>
+   <td align="center"> <b> June Temperature is Hawaii </b> </td>
     <td align="center"> December Temperature is Hawaii</td>
   </tr> 
   <tr>  
@@ -17,4 +17,4 @@ The purpose of this project is to perform weather pattern analysis in Hawaii for
   </tr>     
 </Table> 
 
-##Summary
+## Summary
