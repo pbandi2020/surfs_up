@@ -11,9 +11,9 @@ The purpose of this project is to perform weather pattern analysis in Hawaii for
     <td align="center"> June Temperature is Hawaii </td>
     <td align="center"> December Temperature is Hawaii</td>
   </tr> 
-  <tr>   
-    <td valign="top"> <img src="/Resources/2017%20June_statistics.png" width="500" /> </td>
-    <td valign="top"> <img src="/Resources/2018%20Dec_statistics.png" width="500" /> </td>
+  <tr>  
+    <td valign="top"> <img src="/Resources/June_statistics.png" width="500" /> </td>
+    <td valign="top"> <img src="/Resources/Dec_statistics.png" width="500" /> </td>
   </tr>     
 </Table> 
 
