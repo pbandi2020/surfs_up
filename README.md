@@ -1,4 +1,4 @@
-# surfs_up Analysis
+# Surfs_up Analysis
 
 ##Project Overview
 
