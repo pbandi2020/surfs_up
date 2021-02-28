@@ -9,7 +9,7 @@ The purpose of this project is to perform weather pattern analysis in Hawaii for
 <table>
  <tr>   
    <td align="center"> <b> June Temperature is Hawaii </b> </td>
-    <td align="center"> December Temperature is Hawaii</td>
+   <td align="center"> <b> December Temperature is Hawaii </b> </td>
   </tr> 
   <tr>  
     <td valign="top"> <img src="/Resources/June_statistics.png" width="250" /> </td>
