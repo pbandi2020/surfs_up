@@ -27,8 +27,8 @@ These two tables tell us about the differing weather patterns for the two monthl
 
 ## Summary
 
-Oevrall the temperature statistics in December and June are very similar. I suggest we need additonal analysis to make a right decision and come to a conclusion on weather data analysis. Comparison of weather by station as we may have higher/lower temperatures and precipitation levels at different locations is needed to complete the analysis. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
+Oevrall the temperature statistics in December and June are very similar. I suggest we need additonal analysis to make a right decision and come to a conclusion on weather data analysis. Comparison of weather by station as we may have higher/lower temperatures and precipitation levels at different locations is needed to complete the analysis. There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather. Addiitonal queries on precipetation is what we need next.
 1.  Historical precipitation data is needed.
 2.  How active the stations are / which station tends to have the most precipitation recording is also another needed metric.
-3.  Both of these were performed in the module and can be found in the climate analysis.
+
  
